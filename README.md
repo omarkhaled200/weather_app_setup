@@ -3,14 +3,23 @@
 A new Flutter project.
 
 ## Getting Started
+-This project we do a weather app 
 
-This project is a starting point for a Flutter application.
+-we start to build a two screan : the first screan is intro to app and don't show any weather and second screan we search the country we need to know the weather of it 
 
-A few resources to get you started if this is your first Flutter project:
+-when i search on one country represent the time of update and the avarage tempreture and the max and min tempreture and the weateher conditoin 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+First screan:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/user-attachments/assets/80314c38-eda2-440f-8259-bfcccd6cb972)
+
+Second screan:
+
+![2](https://github.com/user-attachments/assets/509e2bde-3bd1-4345-8c4b-dd94d7c14b75)
+
+the screan after searching about country:
+
+![3](https://github.com/user-attachments/assets/083d3f02-26c9-4f46-bc0a-387f543420c7)
+
+https://github.com/user-attachments/assets/30b2675a-6a3f-40f2-9690-3a2f90931c88
+
